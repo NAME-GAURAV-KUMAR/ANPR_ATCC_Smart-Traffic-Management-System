@@ -53,7 +53,7 @@ The model trained: `yolo_ANPR.pt`
 ├── train_atcc.py # Training script for ATCC model
 ├── auto_label.py # Auto-labels ATCC frames using YOLO
 ├── process.py # ATCC inference pipeline
-├── create_small_dataset.py # Reduces dataset to 400 samples
+├── first.ipynb 
 
 ├── ATCC_dataset/
 │ ├── images/train
